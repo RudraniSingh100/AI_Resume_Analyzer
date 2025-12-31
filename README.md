@@ -168,7 +168,6 @@ MIT License
 ---
 
 ## 🧾 Acknowledgement
-Inspired by open-source projects and enhanced with ATS-focused scoring and analysis logic.
+Inspired by open-source ideas and enhanced with ATS-focused scoring and analysis logic.
 
 ---
-Happy Coding 🚀
